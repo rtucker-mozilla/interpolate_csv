@@ -1,7 +1,7 @@
 # interpolate_csv
 Python script to take CSV input and run commands or output strings
 
-Exampple CSV
+# Example CSV
 
 hostname,dnsserver 
 mozilla.com,4.2.2.2 
